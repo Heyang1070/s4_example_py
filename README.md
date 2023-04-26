@@ -26,25 +26,26 @@ Published result examples
 Fan_PRB_65_2002             - 通过光子晶体平板传输光谱的简单例子。
 
 Antonoyiannakis_PRB_60_1999 - 演示各种力的作用。
-Suh_APL_82_1999_2003        - High Q Fano resonances.
-Liu_OE_17_21897_2009        - Resonance enhancement of forces.
-Li_JOSA_14_2758_1997        - Convergence test with original FMM
-                              reformulation examples, including
-                              a non-orthogonal lattice.
-Tikhodeev_PRB_66_45102_2002 - Example of transmission spectrum
-                              through a photonic crystal slab.
-Christ_PRB_70_125113_2004   - Metal grating transmission spectrum.
+
+Suh_APL_82_1999_2003        - 高Q范诺共振。
+
+Liu_OE_17_21897_2009        - 力的共振增强。
+
+Li_JOSA_14_2758_1997        - 收敛性检验用原FMM重新表述的例子，包括一个非正交格。
+
+Tikhodeev_PRB_66_45102_2002 - 透射光谱通过光子晶体板的例子。
+
+Christ_PRB_70_125113_2004   - 金属光栅透射谱。
 
 
 Other examples
 --------------
-spectrum_sampler - Demonstrates how to use the SpectrumSampler
-                   object on any function.
-interpolator - Simple example of how to use the interpolator
-               object.
-polarization_basis - Shows the vector fields generated for
-                     various lattices.
-threading - Shows how to parallelize computations when threading
-            support is enabled.
-magneto - Test case for tensor dieletric compared against analytic
-          theory.
+spectrum_sampler   - 演示如何在任何函数上使用SpectrumSampler对象。
+
+interpolator       - 如何使用插值器对象的简单示例。
+
+polarization_basis - 显示了为各种格生成的向量场。
+
+threading          - 说明在启用线程支持时如何并行化计算。
+
+magneto            - 张量介质的测试用例与解析理论的比较。
